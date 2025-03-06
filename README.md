@@ -27,8 +27,9 @@ The dataset includes:
        - Overall Performance Index = Weighted average of batting and bowling performance
 
 ## Technologies & Tools Used
-- Power BI – For data visualization and interactive dashboards.
-- DAX (Data Analysis Expressions) – To create calculated fields and performance metrics.
+- 🛠 Excel – Data cleaning, anomaly correction, and creating calculated columns.
+- 📊 Power BI – Visualization and interactive dashboards.
+- ⚡ DAX (Data Analysis Expressions) – Custom metrics & performance indicators.
 
 ## Key Insights & Analysis
 
@@ -42,6 +43,10 @@ The dataset includes:
 - ✅ Anchors & Middle Order Stability: Players like Virat Kohli and Glenn Phillips showed consistency with high batting averages, playing the anchor role.
 
   ![Anchors](/Anchors.jpg)
+
+- ✅ Finishers: Players like Marcus Stoinis, Glenn Maxwell, and Hardik Pandya played a crucial role in the death overs, maintaining high strike rates (160+), quick acceleration, and effective finishing abilities to maximize runs in the final overs. Their ability to hit boundaries at a high percentage made them key assets in chasing or setting big targets.
+
+  ![Finishers](/Finishers.jpg)
 
 ### 2. Bowling Performance Analysis
 
@@ -76,9 +81,71 @@ The dataset includes:
 - ✅ Suryakumar Yadav’s explosive innings (SR 189.68) helped India dominate middle overs.
 - ✅ Shaheen Afridi’s breakthrough spells (Economy 6.16) were crucial in tight matches.
 
+### 6. How We Chose the Final 11 Players
+🔍 To select the best-performing XI, we followed a data-driven approach based on:
+
+- ✅ 1. Performance-Based Selection
+  - Batting Metrics: Players with high strike rates, boundary percentages, and batting averages were prioritized.
+  - Bowling Metrics: Bowlers with low economy rates, high dot ball percentages, and strong wicket-taking abilities were shortlisted.
+  - All-Rounder Impact: Players contributing in both batting & bowling were given higher weightage.
+
+- ✅ 2. Balanced Team Composition
+ 
+To build a well-rounded XI, we ensured:
+
+ - 2-3 Power Hitters (Explosive openers)
+ - 2-3 Middle Order Anchors (Stability in innings)
+ - 1-2 Finishers (Strong death-over batters)
+ - 3-4 Specialist Bowlers (Fast & spin options)
+ - 1-2 All-Rounders (Contributing with bat & ball)
+
+- ✅ 3. Match Conditions & Opponent Analysis
+  
+   - Players were selected based on recent form & adaptability to match conditions (e.g., pitch type, opposition strengths).
+   - Spin-heavy tracks favored all-rounders like Shadab Khan & Sikandar Raza.
+   - Pace-friendly conditions gave preference to bowlers like Anrich Nortje & Shaheen Afridi.
+ 
+   ![Final11](/Fina11.jpg)
+
+  ## Enhancing User Experience with Power BI Tooltips & Buttons
+🔍 Interactive Tooltips for Player Performance & Images
+I integrated custom tooltips in Power BI to display each player’s individual performance, along with their image, when hovering over their name.
+
+✅ Tooltip Features:
+
+Shows player’s batting & bowling stats dynamically (e.g., Strike Rate, Wickets, Economy Rate).
+Displays player image for better recognition.
+Provides quick comparisons between players without opening another page.
+📌 How It Works:
+1️⃣ A user hovers over Virat Kohli’s name, and a tooltip pops up showing:
+
+His batting average, strike rate, and role in the team.
+A small player image for quick identification.
+2️⃣ Similarly, hovering over a bowler’s name shows wickets, economy rate, and performance impact.
+
+
+
+🎛️ Navigating Between Pages Using Buttons
+
+To enhance the user experience, we included buttons to switch between slides in Power BI, making navigation smooth.
+
+✅ Button Features:
+
+One-click navigation to switch between pages such as:
+- 📊 Batting Performance Page
+- 🎯 Bowling Insights Page
+- 🏆 Final 11 Player Selection Page
+-Dynamic Filtering: Clicking on a player’s name highlights their stats across different slides.
+Drill-through Option: Users can click on a specific player to get a detailed breakdown of their performances across multiple matches.
+📌 How It Works:
+- 1️⃣ A user clicks on the "Batting Analysis" button, and the dashboard instantly moves to the detailed batting statistics page.
+- 2️⃣ Clicking on "Bowling Insights" brings up bowling statistics.
+- 3️⃣ Users can go back to the "Final 11 Selection" page at any time.
+
 ## Impact & Learnings
 
 🚀 Key Outcomes:
+
 - ✅ Successfully built an interactive Power BI dashboard that enables real-time player and team performance analysis.
 - ✅ Provided data-driven insights to categorize players into strategic roles like power hitters, finishers, and all-rounders.
 - ✅ Enhanced decision-making for team selection by analyzing batting strike rates, economy rates, and match performances.
@@ -102,7 +169,10 @@ The dataset includes:
 
 This Power BI project demonstrated my ability to analyze large datasets, create dynamic dashboards, and extract actionable insights from cricket statistics. It highlights my skills in:
 
-- ✔ Data Visualization – Designed engaging, interactive dashboards to communicate insights effectively.
-- ✔ Data Analysis & Reporting – Evaluated key batting, bowling, and all-rounder statistics to classify players based on performance.
-- ✔ Business Intelligence (BI) Tools – Used Power BI & DAX functions to generate powerful, data-driven insights.
-- ✔ Storytelling with Data – Transformed complex data into meaningful narratives for cricket analysts and enthusiasts.
+- ✅ Data Visualization – Designed engaging, interactive dashboards to communicate insights effectively.
+- ✅ Data Analysis & Reporting – Evaluated key batting, bowling, and all-rounder statistics to classify players based on performance.
+- ✅ Business Intelligence (BI) Tools – Used Power BI & DAX functions to generate powerful, data-driven insights.
+- ✅ Storytelling with Data – Transformed complex data into meaningful narratives for cricket analysts and enthusiasts.
+- ✅ Data-Driven Player Selection – Choosing the best XI based on stats & conditions.
+- ✅ Dynamic Tooltips – Displaying individual player performance + images.
+- ✅ Interactive Buttons – Allowing users to navigate seamlessly between different insights.
