@@ -1,10 +1,10 @@
 # Objective
 
 The goal of this project was to:
-✅ Identify key players based on batting and bowling metrics.
-✅ Categorize players into roles like power hitters, anchors, finishers, all-rounders, and specialist bowlers.
-✅ Analyze match-wise performance trends to understand consistency and impact.
-✅ Provide data-driven insights for team selection and strategy formulation.
+- ✅ Identify key players based on batting and bowling metrics.
+- ✅ Categorize players into roles like power hitters, anchors, finishers, all-rounders, and specialist bowlers.
+- ✅ Analyze match-wise performance trends to understand consistency and impact.
+- ✅ Provide data-driven insights for team selection and strategy formulation.
 
 ## Dataset and Data Cleaning
 
