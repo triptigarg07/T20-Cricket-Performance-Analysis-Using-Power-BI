@@ -105,7 +105,7 @@ To build a well-rounded XI, we ensured:
    - Spin-heavy tracks favored all-rounders like Shadab Khan & Sikandar Raza.
    - Pace-friendly conditions gave preference to bowlers like Anrich Nortje & Shaheen Afridi.
  
-   ![Final11](/Fina11.jpg)
+   ![Final11](/Final11.jpg)
 
   ## Enhancing User Experience with Power BI Tooltips & Buttons
 🔍 Interactive Tooltips for Player Performance & Images
@@ -123,7 +123,7 @@ His batting average, strike rate, and role in the team.
 A small player image for quick identification.
 2️⃣ Similarly, hovering over a bowler’s name shows wickets, economy rate, and performance impact.
 
-![Tooltip](/Tooltip.jpg)
+![Tooltip](/tooltip.jpg)
 
 🎛️ Navigating Between Pages Using Buttons
 
