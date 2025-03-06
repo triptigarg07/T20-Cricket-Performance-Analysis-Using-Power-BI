@@ -123,7 +123,7 @@ His batting average, strike rate, and role in the team.
 A small player image for quick identification.
 2️⃣ Similarly, hovering over a bowler’s name shows wickets, economy rate, and performance impact.
 
-
+![Tooltip](/Tooltip.jpg)
 
 🎛️ Navigating Between Pages Using Buttons
 
