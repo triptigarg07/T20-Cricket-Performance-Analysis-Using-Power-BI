@@ -36,7 +36,12 @@ The dataset includes:
 
 - 📊 Top-performing batsmen were identified based on strike rate, boundary percentage, and batting average.
 - ✅ Power Hitters: Players like Jos Buttler, Alex Hales, and Suryakumar Yadav had high strike rates (150+), boundary percentages (60%+), and strong batting averages.
+  
+  ![Power Hitters](/Power_Hitters.jpg)
+  
 - ✅ Anchors & Middle Order Stability: Players like Virat Kohli and Glenn Phillips showed consistency with high batting averages (50+), playing the anchor role.
+
+  ![Anchors](/Anchors.jpg)
 
 ### 2. Bowling Performance Analysis
 
