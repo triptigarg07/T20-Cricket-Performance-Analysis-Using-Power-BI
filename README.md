@@ -35,11 +35,11 @@ The dataset includes:
 ### 1. Batting Performance Analysis
 
 - 📊 Top-performing batsmen were identified based on strike rate, boundary percentage, and batting average.
-- ✅ Power Hitters: Players like Jos Buttler, Alex Hales, and Suryakumar Yadav had high strike rates (150+), boundary percentages (60%+), and strong batting averages.
+- ✅ Power Hitters: Players like Jos Buttler, Alex Hales had high strike rates, boundary percentages, and strong batting averages.
   
   ![Power Hitters](/Power_Hitters.jpg)
   
-- ✅ Anchors & Middle Order Stability: Players like Virat Kohli and Glenn Phillips showed consistency with high batting averages (50+), playing the anchor role.
+- ✅ Anchors & Middle Order Stability: Players like Virat Kohli and Glenn Phillips showed consistency with high batting averages, playing the anchor role.
 
   ![Anchors](/Anchors.jpg)
 
@@ -50,11 +50,15 @@ The dataset includes:
 - ✅ Most Economical: Tim Southee and Sam Curran had economy rates under 6.5, controlling runs effectively.
 - ✅ Dot Ball Impact: Shaheen Afridi (46.36%) and Anrich Nortje (55.24%) had high dot ball percentages, creating pressure on batters.
 
+  ![Specialist Fast Bowlers](/Specialist_Fast_Bowlers.jpg)
+
 ### 3. All-Rounder Impact Analysis
 
 🌟 Players who contributed with both bat and ball were classified as all-rounders.
 - ✅ Shadab Khan & Sikandar Raza played key roles, with batting averages of 24+ and bowling economy rates under 7.
 - ✅ Rashid Khan’s all-round brilliance: Batting strike rate (178.13) & bowling economy (6.42) made him one of the most valuable players.
+
+  ![All Rounders](/AllRounders.jpg)
 
 ### 4. Player Role Classification
 
